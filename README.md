@@ -100,7 +100,7 @@ If you find this project helpful or inspiring, your ⭐️ star would be greatly
 
 ## Useful Links
 
-* [Email](mailto:kaloudasdev@gmail.com)
-* [Discord](https://discordapp.com/users/1069279857072160921)
-* [Repository](https://github.com/KaloudasDev/back-to-school-countdown)
-* [License](https://en.wikipedia.org/wiki/MIT_License)
+* [Email Account](mailto:kaloudasdev@gmail.com)
+* [Discord Account](https://discordapp.com/users/1069279857072160921)
+* [GitHub Repository](https://github.com/KaloudasDev/back-to-school-countdown)
+* [License Information](https://en.wikipedia.org/wiki/MIT_License)

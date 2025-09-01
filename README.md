@@ -1,12 +1,10 @@
 ## 🏫 Back to School Countdown Timer
 
-An elegant, visually appealing countdown timer and progress tracker for the upcoming school year. Designed with modern UI/UX principles and smooth animations, this web app helps students and parents keep track of the days, hours, minutes, and seconds remaining until school starts, alongside a dynamic progress bar and calendar integration.
+An elegant, visually appealing countdown timer and progress tracker for the upcoming school year. Designed with modern UI/UX principles and smooth animations, this web app helps students and parents keep track of the days, hours, minutes, and seconds remaining until school starts, alongside progress bar and calendar integration.
 
 ## Project Overview
 
 The **Back to School Countdown Timer** is a responsive, dark-themed web application built with vanilla JavaScript, HTML5, and CSS3. It features a live countdown to a fixed target date (school opening day), a progress bar showing the year’s progress, and a convenient "Add to Calendar" button to save the event effortlessly.
-
-This lightweight tool is perfect for educational websites, personal blogs, or school portals seeking an engaging way to remind users about the approaching school start date.
 
 ## Key Features
 
@@ -38,8 +36,8 @@ This lightweight tool is perfect for educational websites, personal blogs, or sc
 1. **Clone or download the repository:**
 
 ```bash
-git clone https://github.com/KaloudasDev/school-countdown-timer.git
-cd school-countdown-timer
+git clone https://github.com/KaloudasDev/back-to-school-countdown
+cd back-to-school-countdown
 ````
 
 2. **Open `index.html`** in your preferred browser.
@@ -57,17 +55,17 @@ cd school-countdown-timer
   Use CSS variables defined in `:root` for quick color scheme changes.
 
 * **Background Image:**
-  Update the `.background-blur` selector in `style.css` with your own image URL or remove for a plain background.
+  Update the `.background-blur` selector in `style.css` with your own image.
 
 ## Folder Structure
 
 ```
 school-countdown-timer/
 ├── assets/
-│   └── background.webp           # Background image
-├── index.html                    # Main HTML file
-├── style.css                    # Styling with CSS variables and animations
-└── script.js                    # Countdown and progress logic with animations
+│   └── background.webp           
+├── index.html                   
+├── style.css                   
+└── script.js                    
 ```
 
 
@@ -93,7 +91,7 @@ Please ensure code is clean, well-documented, and tested before submitting.
 ## License
 
 This project is licensed under the **MIT License**.   
-See the [LICENSE](./LICENSE) file for full details.
+See the [LICENSE](./LICENSE) file for full details and information.
 
 ## Author
 

@@ -1,16 +1,12 @@
-# Back to School Countdown Timer
+# 🎒 Back to School Countdown Timer
 
 An elegant, visually appealing countdown timer and progress tracker for the upcoming school year. Designed with modern UI/UX principles and smooth animations, this web app helps students and parents keep track of the days, hours, minutes, and seconds remaining until school starts, alongside a dynamic progress bar and calendar integration.
-
----
 
 ## 🚀 Project Overview
 
 The **Back to School Countdown Timer** is a responsive, dark-themed web application built with vanilla JavaScript, HTML5, and CSS3. It features a live countdown to a fixed target date (school opening day), a progress bar showing the year’s progress, and a convenient "Add to Calendar" button to save the event effortlessly.
 
 This lightweight tool is perfect for educational websites, personal blogs, or school portals seeking an engaging way to remind users about the approaching school start date.
-
----
 
 ## ✨ Key Features
 
@@ -22,8 +18,6 @@ This lightweight tool is perfect for educational websites, personal blogs, or sc
 - **Dark Theme** with subtle blurred background and modern typography.
 - Clean, modular codebase for easy customization and scalability.
 
----
-
 ## 🎯 How It Works
 
 1. The countdown calculates the time difference between the current date and the predefined school opening date (September 11, 2025, 9:00 AM).
@@ -31,8 +25,6 @@ This lightweight tool is perfect for educational websites, personal blogs, or sc
 3. The countdown numbers animate whenever they update, providing a smooth and dynamic user experience.
 4. When the countdown reaches zero, the headline changes to indicate the school year has started.
 5. Users can click the **Add to Calendar** button to export the school start event to their personal calendar apps.
-
----
 
 ## 🛠️ Installation & Setup
 
@@ -56,8 +48,6 @@ cd school-countdown-timer
 
 4. (Optional) Replace the background image by changing the URL in `style.css` under `.background-blur`.
 
----
-
 ## 📐 Customization
 
 * **Change Target Date:**
@@ -68,8 +58,6 @@ cd school-countdown-timer
 
 * **Background Image:**
   Update the `.background-blur` selector in `style.css` with your own image URL or remove for a plain background.
-
----
 
 ## 🧩 Folder Structure
 
@@ -82,7 +70,6 @@ school-countdown-timer/
 └── script.js                    # Countdown and progress logic with animations
 ```
 
----
 
 ## 🎨 Technologies Used
 
@@ -91,8 +78,6 @@ school-countdown-timer/
 * **Vanilla JavaScript** for time calculations, DOM updates, and animations
 * Responsive design principles for cross-device compatibility
 * Google Fonts (Inter & Montserrat) for modern typography
-
----
 
 ## 📣 Contribution Guidelines
 
@@ -105,20 +90,14 @@ Contributions are warmly welcomed! To help improve this project:
 
 Please ensure code is clean, well-documented, and tested before submitting.
 
----
-
 ## 📝 License
 
 This project is licensed under the **MIT License** – a permissive license that enables free use, modification, and distribution. See the [LICENSE](./LICENSE) file for full details.
-
----
 
 ## ✒️ Author
 
 Created and maintained by **KaloudasDev**.
 If you find this project helpful or inspiring, your ⭐️ star on GitHub would be greatly appreciated!
-
----
 
 ## 🔗 Useful Links
 

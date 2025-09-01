@@ -24,7 +24,7 @@ The **Back to School Countdown Timer** is a responsive, dark-themed web applicat
 4. When the countdown reaches zero, the headline changes to indicate the school year has started.
 5. Users can click the **Add to Calendar** button to export the school start event to their personal calendar apps.
 
-## 🛠Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 

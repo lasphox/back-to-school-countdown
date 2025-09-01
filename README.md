@@ -92,13 +92,12 @@ Please ensure code is clean, well-documented, and tested before submitting.
 
 ## License
 
-This project is licensed under the **MIT License** – a permissive license that enables free use, modification, and distribution.  
+This project is licensed under the **MIT License**.   
 See the [LICENSE](./LICENSE) file for full details.
 
 ## Author
 
-Created and maintained by **KaloudasDev**.
->>>>>>> 32ab52f290aeb6afe2364355c4643a4993c8ec7a
+Created and maintained by **KaloudasDev**.  
 If you find this project helpful or inspiring, your ⭐️ star on GitHub would be greatly appreciated!
 
 ## Useful Links

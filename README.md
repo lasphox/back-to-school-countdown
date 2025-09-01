@@ -96,9 +96,11 @@ See the [LICENSE](./LICENSE) file for full details and information.
 ## Author
 
 Created and maintained by **KaloudasDev**.  
-If you find this project helpful or inspiring, your ⭐️ star on GitHub would be greatly appreciated!
+If you find this project helpful or inspiring, your ⭐️ star would be greatly appreciated!
 
 ## Useful Links
 
-* [GitHub Repository](https://github.com/KaloudasDev/back-to-school-countdown)
-* [Contact](mailto:kaloudasdev@gmail.com)
+* [Email](mailto:kaloudasdev@gmail.com)
+* [Discord](https://discordapp.com/users/1069279857072160921)
+* [Repository](https://github.com/KaloudasDev/back-to-school-countdown)
+* [License](https://en.wikipedia.org/wiki/MIT_License)

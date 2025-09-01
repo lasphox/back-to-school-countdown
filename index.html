@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Back to School Countdown</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="dark">
+  <div class="background-blur"></div> 
+
+  <header>
+    <span class="logo">
+      <span class="icon-school"></span>
+      <span>Back To School</span>
+    </span>
+    <div class="social-icons">
+      <a href="https://github.com/KaloudasDev" class="real-github" title="GitHub" target="_blank" rel="noopener"></a>
+    </div>
+  </header>
+
+  <main>
+    <h1>School Opening Countdown</h1>
+    <div class="countdown">
+      <div><span id="days" class="num">00</span><span class="lbl">Days</span></div>
+      <div><span id="hours" class="num">00</span><span class="lbl">Hours</span></div>
+      <div><span id="minutes" class="num">00</span><span class="lbl">Minutes</span></div>
+      <div><span id="seconds" class="num">00</span><span class="lbl">Seconds</span></div>
+    </div>
+
+    <div class="progress-bar-container">
+      <div class="progress-bar">
+        <div class="progress-bar-inner" id="progress-bar-inner"></div>
+      </div>
+      <div class="progress-percentage" id="progress-percentage">0%</div>
+    </div>
+  </main>
+
+  <button id="add-calendar-btn" class="calendar-btn">
+    Add To Calendar
+  </button>
+  
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-label">
+        <span class="footer-title">Back to School Countdown – Designed & Developed by <strong>KaloudasDev</strong></span>
+      </div>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>

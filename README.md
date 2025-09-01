@@ -1,7 +1,3 @@
-Βεβαίως! Παρακάτω σου ετοίμασα ένα πλήρες, επαγγελματικό README.md για το **Back to School Countdown** project σου, μαζί με ένα κομψό repository name και description.
-
----
-
 # Repository Name (professional & concise):
 
 **school-countdown-timer**

